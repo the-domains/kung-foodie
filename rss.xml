@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[A Blackbelt in Culinary Excellence]]></title>
         <description><![CDATA[A Blackbelt in Culinary Excellence]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kung-foodie/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jan 2016 16:41:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Jan 2016 16:42:52 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kung-foodie/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[A Blackbelt in Culinary Excellence]]></title>
-            <description><![CDATA[<article><h1>A Blackbelt in Culinary Excellence</h1><p>This is a test. It's an excellent test.</p></article>]]></description>
-            <link>undefineda-blackbelt-in-culinary-excellence/index.html</link>
+            <description><![CDATA[<article><h1>A Blackbelt in Culinary Excellence</h1><p>This is a test. It's an excellent test.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/073958de-acec-47fa-ab7b-98a69e22519b.JPG"></article>]]></description>
+            <link>https://thegrid.ai/kung-foodie/a-blackbelt-in-culinary-excellence/index.html</link>
             <guid isPermaLink="false">7806fb0f-3989-432f-af3a-9f22c99b793d</guid>
-            <pubDate>Wed, 13 Jan 2016 16:41:10 GMT</pubDate>
+            <pubDate>Wed, 13 Jan 2016 16:42:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
